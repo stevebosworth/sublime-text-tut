@@ -1,0 +1,1692 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"delet",
+				"deleteSection"
+			],
+			[
+				"sour",
+				"sourcedb.class.php"
+			],
+			[
+				"sourc",
+				"source.class.php"
+			],
+			[
+				"upload",
+				"upload_modal"
+			],
+			[
+				"getre",
+				"getSourcesBySec"
+			],
+			[
+				"Sour",
+				"SourceDB"
+			],
+			[
+				"section",
+				"SectionDB  (class)"
+			],
+			[
+				"getRel",
+				"getRel_sec_id"
+			],
+			[
+				"md",
+				"md5"
+			],
+			[
+				"sel",
+				"selRelatedBySec  (function)"
+			],
+			[
+				"Section",
+				"SectionDB"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"related",
+				"related_db.class.php"
+			],
+			[
+				"text",
+				"textarea	<textarea>"
+			],
+			[
+				"REla",
+				"relatedDB  (class)"
+			],
+			[
+				"rel",
+				"related_db.class.php"
+			],
+			[
+				"script",
+				"scriptsrc	js-script-src"
+			],
+			[
+				"se",
+				"section-admin.css"
+			],
+			[
+				"geten",
+				"getEnact_Sec"
+			],
+			[
+				"getEn",
+				"getEnact_Bill"
+			],
+			[
+				"selAll",
+				"selAllFromSection"
+			],
+			[
+				"division",
+				"division"
+			],
+			[
+				"setTi",
+				"setTitle_Id"
+			],
+			[
+				"getDiv",
+				"getDiv_Id"
+			],
+			[
+				"getCh",
+				"getCh_Num"
+			],
+			[
+				"getch",
+				"getCh_Id"
+			],
+			[
+				"getboo",
+				"getBook_Id"
+			],
+			[
+				"getsub",
+				"getSub_div_title"
+			],
+			[
+				"getdiv",
+				"getDiv_Title"
+			],
+			[
+				"getTi",
+				"getTitle_Title"
+			],
+			[
+				"gettit",
+				"getTitle_Num"
+			],
+			[
+				"getSec",
+				"getSec_Txt"
+			],
+			[
+				"is",
+				"is_a"
+			],
+			[
+				"getDiv_id",
+				"getDiv_Id"
+			],
+			[
+				"getBoo",
+				"getBook_Id"
+			],
+			[
+				"getLaw",
+				"getLaw_Id"
+			],
+			[
+				"divisi",
+				"division"
+			],
+			[
+				"getC",
+				"getCh_Num"
+			],
+			[
+				"getBook",
+				"getBook_Title"
+			],
+			[
+				"getSec_",
+				"getSec_Txt"
+			],
+			[
+				"getSe",
+				"getSec_Num"
+			],
+			[
+				"getEnac",
+				"getEnact_Sec"
+			],
+			[
+				"getEna",
+				"getEnact_Bill"
+			],
+			[
+				"selSe",
+				"selSectionByNum"
+			],
+			[
+				"sec",
+				"sec_class"
+			],
+			[
+				"getSub_di",
+				"getSub_div_title"
+			],
+			[
+				"getSub",
+				"getSub_div_num"
+			],
+			[
+				"SubDi",
+				"SubDivisionDB  (class)"
+			],
+			[
+				"Divi",
+				"DivisionDB  (class)"
+			],
+			[
+				"getCh_",
+				"getCh_Id"
+			],
+			[
+				"selch",
+				"selChaptersByTitleID"
+			],
+			[
+				"CH",
+				"chapterDB  (class)"
+			],
+			[
+				"div",
+				"DivisionDB  (class)"
+			],
+			[
+				"division_db",
+				"sub_division_db.class.php"
+			],
+			[
+				"getTitl",
+				"getTitle_Id"
+			],
+			[
+				"selTi",
+				"selTitlesByBookID"
+			],
+			[
+				"Title",
+				"TitleDB"
+			],
+			[
+				"setTit",
+				"setTitle_Id"
+			],
+			[
+				"selC",
+				"selChaptersByBookID"
+			],
+			[
+				"Chaper",
+				"chapterDB  (class)"
+			],
+			[
+				"sub_div",
+				"sub_division.class.php"
+			],
+			[
+				"selBook",
+				"selBooksByLawID"
+			],
+			[
+				"Book",
+				"bookDB  (class)"
+			],
+			[
+				"book_",
+				"book_title"
+			],
+			[
+				"Law",
+				"LawDB  (class)"
+			],
+			[
+				"law_code",
+				"law_code"
+			],
+			[
+				"set",
+				"setLaw_id"
+			],
+			[
+				"require",
+				"require_once"
+			],
+			[
+				"getdb",
+				"getDB"
+			],
+			[
+				"ena",
+				"enact_sec"
+			],
+			[
+				"enact",
+				"enact_yr"
+			],
+			[
+				"select",
+				"select"
+			],
+			[
+				"dbconn",
+				"Dbconn"
+			],
+			[
+				"chapter",
+				"chapter.class.php"
+			],
+			[
+				"dbc",
+				"dbconn"
+			],
+			[
+				"sec_num",
+				"sec_num"
+			],
+			[
+				"sub_di",
+				"sub_div_id"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"console",
+				"console.log	console.log"
+			],
+			[
+				"divisions",
+				"divisions"
+			],
+			[
+				"data",
+				"data-table"
+			],
+			[
+				"table",
+				"table	<table>"
+			],
+			[
+				"num",
+				"_num"
+			],
+			[
+				"consol",
+				"console.log	console.log"
+			],
+			[
+				"li",
+				"li	:link"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"Post",
+				"_POST"
+			],
+			[
+				"add",
+				"add_title_book_id"
+			],
+			[
+				"title",
+				"titles_query"
+			],
+			[
+				"sub",
+				"sub_divisions_query"
+			],
+			[
+				"chap",
+				"chapters_query"
+			],
+			[
+				"laws",
+				"laws_query"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"xml",
+				"xmlstyle	xml-stylesheet"
+			],
+			[
+				"query",
+				"query_books_all"
+			],
+			[
+				"publi",
+				"publisher_id"
+			],
+			[
+				"pubisher",
+				"publisher_id"
+			],
+			[
+				"dbname",
+				"mysql_db_name"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"NOT",
+				"NOT_NULL"
+			],
+			[
+				"sql",
+				"sqlquery_insert"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"categor",
+				"categoryID"
+			],
+			[
+				"PDO",
+				"PDOException"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"opt",
+				"optgroup	Tag"
+			],
+			[
+				"ul",
+				"ul	HTML - Unordered list"
+			],
+			[
+				"fie",
+				"FIELDSET	Tag"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"arra",
+				"array_chunk"
+			],
+			[
+				"style",
+				"style	stylesheet exslt common"
+			],
+			[
+				"doctype",
+				"doctype HTML5	doctype HTML5"
+			],
+			[
+				"raining",
+				"raining"
+			],
+			[
+				"met",
+				"META	Tag"
+			],
+			[
+				"m",
+				"meta	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "misc.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 323.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"syn",
+				"Set Syntax: CSS"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"synjq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"fec",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"html5",
+				"Snippet: new-html5"
+			],
+			[
+				"synjqer",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"synjque",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"clip",
+				"Clipboard History"
+			],
+			[
+				"get",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"REmov",
+				"Emmet: Remove Tag"
+			],
+			[
+				"git",
+				"Git: Diff Tool All"
+			],
+			[
+				"pretyj",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"syph",
+				"Set Syntax: PHP"
+			],
+			[
+				"GIT",
+				"Git: Commit history"
+			],
+			[
+				"gett",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"bowe",
+				"Bower: Discover packages"
+			],
+			[
+				"cli",
+				"Clipboard History"
+			],
+			[
+				"align",
+				"Align Tabular"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"synsql",
+				"Set Syntax: SQL"
+			],
+			[
+				"getter",
+				"Generate Getter for ..."
+			],
+			[
+				"bran ",
+				"Git: New Branch"
+			],
+			[
+				"syphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"synph",
+				"Set Syntax: PHP"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"constru",
+				"Snippet: yii_construct"
+			],
+			[
+				"new",
+				"Git: New Branch"
+			],
+			[
+				"synjqe",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"syn jqer",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"synjav",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"snippet docum",
+				"Snippet: document.ready - $(function()"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"xht",
+				"Snippet: xhtml-template"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sql",
+				"FormatSQL: Format SQL statement"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"sy",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"github",
+				"Github: Blame"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"githu",
+				"Github: Open File"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"syxml",
+				"Set Syntax: XML"
+			],
+			[
+				"synxml",
+				"Set Syntax: XML"
+			],
+			[
+				"REIN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"snipp html",
+				"Snippet: html"
+			],
+			[
+				"sysql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syntsql",
+				"Set Syntax: SQL"
+			],
+			[
+				"install pag",
+				"Package Control: Install Package"
+			],
+			[
+				"disal",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"aliging",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"alig",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Git: Diff Current File"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"synthtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"snippet in",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"snippet html",
+				"Snippet: new-html5"
+			],
+			[
+				"xsl",
+				"Snippet: stylesheet exslt all"
+			],
+			[
+				"snippet xs",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"syntxsl",
+				"Set Syntax: XSL"
+			],
+			[
+				"syntaxphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"syp",
+				"Set Syntax: Python"
+			],
+			[
+				"synp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sypn",
+				"Set Syntax: Python"
+			],
+			[
+				"snippet dc",
+				"Snippet: doctype HTML5"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"docy",
+				"Snippet: doctype HTML 4.01 Transitional DTD"
+			],
+			[
+				"sytht",
+				"Set Syntax: HTML"
+			],
+			[
+				"synxm",
+				"Set Syntax: XML"
+			],
+			[
+				"syntaxxml",
+				"Set Syntax: XML"
+			],
+			[
+				"syntaxml",
+				"Set Syntax: XML"
+			],
+			[
+				"syntahtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"synt",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntaphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntaxph",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"snipp",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"synt xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syntaxxm",
+				"Set Syntax: XML"
+			],
+			[
+				"syntax xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syntaruby",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"fetchp",
+				"Fetch: Package"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"syntax mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/SteveB/.profile",
+		"/Users/SteveB/Dropbox/DevSites/portfolio_simple/index.html",
+		"/Users/SteveB/Dropbox/DevSites/portfolio_simple/portfolio_simple.sublime-project",
+		"/Users/SteveB/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/etc/hosts",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf",
+		"/etc/apache2/extra/httpd-vhosts.conf",
+		"/.profile",
+		"/Users/SteveB/etc/crontab",
+		"/Volumes/UNTITLED/sublime",
+		"/Volumes/UNTITLED/profile",
+		"/Users/Steve/Downloads/FortAwesome-Font-Awesome-v3.0.2-0-g13d5dd3/FortAwesome-Font-Awesome-13d5dd3/css/font-awesome.min.css",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/js/section.js",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/js/section-admin.js",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Jan24/val-receive.php",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Jan24/form-loan-receive.php",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Jan24/form-loan-send.html",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Jan24/val-checkbox.php",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Jan24/val-checkbox-array.html",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/section.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/section-admin.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/add-meta.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/update-sec.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/add-sec.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/section.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/section-admin.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/upload_src.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/head.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/closer.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/footer.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/UserProfileClasses/login_db.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/UserProfileClasses/login.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/ckeditor/samples/api.html",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/home.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/ckeditor/config.js",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/related.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/ckeditor/samples/ajax.html",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/login.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/css/article.css",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/ckeditor/build-config.js",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/ckeditor/README.md",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/ckeditor/CHANGES.md",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/ckeditor/ckeditor.js",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/js/main.js",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/header.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/source.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/related_db.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/profile_TestHome.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/admin/section-admin-secure.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/section_db.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/Dbconn.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/test.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/article.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/articlepage.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/articlepageUD.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/sourcedb.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/sources/test.txt",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/search_section.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/sourcedb.class.php",
+		"/Users/Steve/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Steve/Library/Application Support/Sublime Text 2/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/caselawEdit.php",
+		"/Users/Steve/Dropbox/Web Development/PHP/Notes/All/index.html",
+		"/Users/Steve/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/info.php",
+		"/private/etc/php.ini",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Applications/XAMPP/xamppfiles/lib/php/php-5.3.1/extensions/no-debug-non-zts-20090626/xdebug.so",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/cumulus-dev.sublime-project",
+		"/Users/Steve/Dropbox/Web Development/XML and Web Services/XML Notes/Week 11 - PHP and XML/index.html",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/404.html",
+		"/Users/Steve/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/phpinfo.php",
+		"/etc/php5/conf.d/xdebug.ini",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/division_db.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/book_db.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/caselaw.inc.php",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Mar14/ch14_guitar_shop/ch14_guitar_shop/product_manager/product_add.php",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Mar14/ch14_guitar_shop/ch14_guitar_shop/model/product_db.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/css/section-admin.css",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/book.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/chapter_db.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/chapter.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/inc/caselaw.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/template.html",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Mar14/ch14_guitar_shop/ch14_guitar_shop/product_manager/index.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/js/vendor/jquery-ui-1.10.1.custom.js",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Jan24/receive-checkbox-array.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/law.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/law_db.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/sql/scratchpad.sql",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/Section.class.php",
+		"/Users/Steve/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/division.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/sub_division.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/sub_division_db.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/title.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/title_db.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/search_engine.php",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/article.php~HEAD",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/article.html",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Mar14/listbooks.php",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Mar14/book.php",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Mar14/select_book.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/section.class.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/sub_division_db.class.php",
+		"/Users/Steve/Library/Application Support/Sublime Text 2/Packages/User/HTML 5.sublime-settings",
+		"/Users/Steve/.bash_profile",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/Law.class.php",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Mar14/ch14_guitar_shop/ch14_guitar_shop/model/category_db.php",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Mar14/section.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/classes/Laws.class.php",
+		"/Volumes/Git 1.8.1.3 Snow Leopard Intel Universal/uninstall.sh",
+		"/Users/Steve/.profile",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/add-title.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/search.html",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/profile.html.html",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/functions/section-admin.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/functions/books.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/add-title.inc.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/include/books.php",
+		"/Users/Steve/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Steve/Dropbox/Project Cumulus/Documentation/CCQ breakdown",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/Feb7/BookSampleChapter4/ch04_product_manager/add_product.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/functions/titles.php",
+		"/Users/Steve/Dropbox/Web Development/PHP/Class/feb14/ch04_product_manager-withclass/ch04_product_manager/Dbconn.php",
+		"/Users/Steve/Dropbox/DevSites/ProjectCumulus/functions/book.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/Steve/Dropbox/DevSites/ProjectCumulus,*.php, *.css",
+			"/Users/Steve/Dropbox/DevSites/ProjectCumulus,*.php, *.js, *.css",
+			"/Users/Steve/Dropbox/DevSites/ProjectCumulus,*.php, *.js, *.css, *.html,",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"heig",
+			"heigh",
+			"height",
+			"p",
+			"}",
+			"{",
+			"ckeditor",
+			"login",
+			"'",
+			"h3",
+			"\"",
+			";",
+			"\"",
+			"search_",
+			"POST",
+			"btn_subsec",
+			"div",
+			"h5",
+			"h6",
+			"p",
+			"h4",
+			"HEAD",
+			"\"",
+			"relatedDB",
+			"button",
+			";",
+			"btn_subart",
+			"small",
+			"sec_num",
+			"sub_dib",
+			"_GET",
+			"$('#add').show();",
+			"name",
+			"enact_yr",
+			"ch_title",
+			"h5",
+			"Title",
+			"$s",
+			"$snsert",
+			"$i",
+			"i",
+			"li",
+			"ch_title",
+			"ch_num",
+			"ch_title",
+			"ch_num",
+			"td",
+			"!==",
+			"HEAD",
+			"tableVal)",
+			"getSec_Num",
+			"virtual hosts",
+			"sec_num",
+			"Sec_Num",
+			"sec_num",
+			"Sec_Num",
+			"sec_num",
+			"Sec_Num",
+			"sec_num",
+			"Sec_Num",
+			"sec_num",
+			"law_id",
+			"table_val",
+			"tableVal",
+			"^(.*)$",
+			"sub_div_title",
+			"div_id",
+			"ch_title",
+			"ch_num",
+			"ch_id",
+			"sub_division_db",
+			"div_id",
+			"sub_div_title",
+			"law_code",
+			"law_name",
+			"law_id",
+			"division",
+			"Division",
+			"division",
+			"Division",
+			"division",
+			"divisions",
+			"selDivisions",
+			"'",
+			",",
+			".",
+			"law_id",
+			"add_title",
+			"add_meta",
+			"add_title",
+			"title",
+			"add_meta",
+			"id_type",
+			"functions/books.php",
+			"functions",
+			"false",
+			"valid",
+			"postal",
+			"lname",
+			"ch_id",
+			"sel_ch",
+			"c",
+			"chapters",
+			"sub_div_id",
+			"ch_query",
+			"title_id",
+			"ch_id",
+			"c",
+			"chapters",
+			"title_id",
+			"sel_ch",
+			"book_id",
+			"sel_book",
+			"ch_id",
+			"title_id",
+			"sel_title",
+			"t",
+			"titles",
+			"book_id",
+			"titles",
+			"titles_query",
+			"book_id",
+			"law_id",
+			"sel_book",
+			"b",
+			"c",
+			"sel_chapters",
+			"titles"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "misc.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.527423832574,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 114.0
+	},
+	"output.xdebug_inspect":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sec",
+				"ProjectCumulus/js/section.js"
+			],
+			[
+				"section",
+				"ProjectCumulus/include/section-admin.inc.php"
+			],
+			[
+				"add-se",
+				"ProjectCumulus/include/add-sec.inc.php"
+			],
+			[
+				"section-adm",
+				"ProjectCumulus/js/section-admin.js"
+			],
+			[
+				"section.j",
+				"ProjectCumulus/js/section.js"
+			],
+			[
+				"section-",
+				"ProjectCumulus/js/section-admin.js"
+			],
+			[
+				"section-ad",
+				"ProjectCumulus/section-admin.php"
+			],
+			[
+				"secure",
+				"ProjectCumulus/admin/section-admin-secure.php"
+			],
+			[
+				".inc",
+				"ProjectCumulus/include/add-sec.inc.php"
+			],
+			[
+				".css",
+				"ProjectCumulus/css/article.css"
+			],
+			[
+				"rel",
+				"ProjectCumulus/classes/related_db.class.php"
+			],
+			[
+				"",
+				"ProjectCumulus/404.html"
+			],
+			[
+				"section_db",
+				"ProjectCumulus/classes/section_db.class.php"
+			],
+			[
+				"admin/se",
+				"ProjectCumulus/admin/section-admin-secure.php"
+			],
+			[
+				"section_d",
+				"ProjectCumulus/classes/section_db.class.php"
+			],
+			[
+				"law_db",
+				"ProjectCumulus/classes/law_db.class.php"
+			],
+			[
+				"sub",
+				"ProjectCumulus/classes/sub_division_db.class.php"
+			],
+			[
+				".class",
+				"ProjectCumulus/classes/division.class.php"
+			],
+			[
+				".clas",
+				"ProjectCumulus/classes/division_db.class.php"
+			],
+			[
+				"law_",
+				"ProjectCumulus/classes/law_db.class.php"
+			],
+			[
+				"section-admin.js",
+				"ProjectCumulus/js/section-admin.js"
+			],
+			[
+				".js",
+				"ProjectCumulus/js/section-admin.js"
+			],
+			[
+				"boo",
+				"Mar14/select_book.php"
+			],
+			[
+				"article.html",
+				"article.html"
+			],
+			[
+				"data",
+				"Feb7/database.php"
+			],
+			[
+				"book",
+				"feb14/book.php"
+			],
+			[
+				"sear",
+				"search.html"
+			],
+			[
+				"huma",
+				"humans.txt"
+			],
+			[
+				"slots",
+				"Restaurant Final - Group 6/scripts/home/slots.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true
+}
