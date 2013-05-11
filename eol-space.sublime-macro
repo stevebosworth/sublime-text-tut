@@ -1,0 +1,6 @@
+[
+	{
+        "command": "move_to",
+        "args": {"to": "hardeol"}
+    }
+]
